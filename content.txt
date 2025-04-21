@@ -1,0 +1,5 @@
+class and obj(example)
+by default an employee has          |same ways a phone
+name, id, dept, salary, designation |size, weight, camera, fingerprint
+and functions are                   |functions
+report, presentation and travel     |call, video/photo, internet
